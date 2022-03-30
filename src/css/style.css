@@ -76,6 +76,7 @@ nav {
 .logosecond h2 {
     color: #263244;
     font-size: 30px;
+    font-weight: bold;
 }
 
 .logosecond p {
@@ -118,6 +119,7 @@ nav {
 .two h2 {
     color: #263244;
     font-size: 30px;
+    font-weight: bold;
 }
 
 .two p {
@@ -134,10 +136,7 @@ nav {
 }
 
 
-.therdmenu {
-    line-height: 60px;
-    color: black;
-    }
+
 
 .therdmenu ul {
     margin-top: 100px;
@@ -162,4 +161,75 @@ nav {
     width: 150px;
     font-size: 13px;
     line-height: normal;
+}
+
+.keisall {
+    width: 100%;
+}
+
+.keis {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.keis h2 {
+    color: #263244;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.keis p {
+    margin-top: 30px;
+}
+
+.slider {
+    color: #384354;
+}
+
+.slider img{
+    margin-top: 40px;
+    margin-left: 188px;
+}
+
+.clientweb {
+    float: left;
+    margin-top: 24px;
+    margin-left: 188px;
+    width: 285px;
+}
+
+.clientweb h2{
+    margin-top: 16px;
+    font-size: 20px;
+}
+
+.clientweb p{
+    margin-top: 16px;
+    font-size: 16px;
+}
+
+.project {
+    width: 1245px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+
+.project p{
+    font-size: 16px;
+}
+
+.project h2 {
+    font-size: 20px;
+}
+
+.slider input {
+    height: 40px;
+    text-align: center;
+    background-color: #63b5ae;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 0px 50px;
+    font-weight: bold;
+    margin-left: 188px;
 }
