@@ -357,9 +357,12 @@ nav {
 
 .contact {
     margin-top: 90px;
-    background: url(../img/%D0%BC%D0%BE%D0%B8_%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B_%D1%84%D0%BE%D0%BD.png);
+    padding-bottom: 400px;
+    background: url(../img/%D0%BC%D0%BE%D0%B8_%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B_%D1%84%D0%BE%D0%BD2.png);
     color: #ffffff;
     text-align: center;
+    background-size: cover;
+    height: 100%;
 }
 
 .mycontact {
@@ -388,4 +391,71 @@ nav {
 .contact h3{
     margin-top: 35px;
     margin-bottom: 40px;
+}
+
+.smsme h3 {
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.smsme input{
+    margin: 10px 10px 0px 10px;
+    padding: 3px;
+    width: 350px;
+    height: 30px;
+    background-color: #d2d6dc;
+    text-align: left;
+}
+
+.inst textarea {
+    width: 723px;
+    height: 94;
+    margin: 13px 0px 0px 0px;
+    padding: 2px 0px 0px 2px;
+    text-align: left;
+    background-color: #d2d6dc;
+}
+
+.icon input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #ffffff;
+    background: none;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 52px 14px 0px 14px;
+    font-weight: 900;
+}
+
+.iicon {
+    margin-top: 50px;
+    text-align: left;
+    margin-left: 380px;
+}
+
+.iicon img {
+    height: 35px;
+}
+
+.iicon a {
+    margin-right: 51px;
+}
+
+.geo {
+    padding-bottom: 400px;
+    background: url(../img/%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F.png);
+    color: #ffffff;
+    text-align: center;
+    background-size: cover;
+    height: 100%;
+}
+
+.bottom footer {
+     width: 100%;
+    height: 60px;
+    background-color: #344051;
+    text-align: center;
+    padding: 25px;
 }
